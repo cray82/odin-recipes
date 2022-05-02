@@ -1,2 +1,2 @@
 # odin-recipes
-This is the first project from The Odin Project.
+This is the first project from The Odin Project. I used recipies from allrecipies.com to create 3 recipe pages from the index.html page. This project taught me how to link files using relative and absolute links, and how to use basic html to style the page in a way that makes sense. I also was able to practice git commands to commit a couple iterations of the site. This has aided my understanding of the difference in terms like commit, push, and add, as well as how to check changes with git log/status.
